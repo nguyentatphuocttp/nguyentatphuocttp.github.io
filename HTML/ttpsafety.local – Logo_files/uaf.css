@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'aptima';
+					src: url('/wp-content/uploads/useanyfont/2463Aptima.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/2463Aptima.woff') format('woff');
+					font-display: auto;
+				}
+
+				.aptima{font-family: 'aptima' !important;}
+
+						.widget-title{
+					font-family: 'aptima' !important;
+				}
+		
